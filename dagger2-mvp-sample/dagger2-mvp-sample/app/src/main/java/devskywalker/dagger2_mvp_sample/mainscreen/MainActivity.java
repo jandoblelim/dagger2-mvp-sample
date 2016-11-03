@@ -14,6 +14,7 @@ import javax.inject.Inject;
 import devskywalker.dagger2_mvp_sample.App;
 import devskywalker.dagger2_mvp_sample.Post;
 import devskywalker.dagger2_mvp_sample.R;
+import devskywalker.dagger2_mvp_sample.data.component.DaggerMainScreenComponent;
 import devskywalker.dagger2_mvp_sample.data.module.MainScreenModule;
 
 public class MainActivity extends AppCompatActivity implements MainScreenContract.View {
